@@ -111,8 +111,8 @@ The SQL scripts are numbered in execution order. The Bronze table is populated f
 | SQL queries | 15+ | **16** analytical queries (+ data-quality checks) |
 | JOIN operations | 3+ | Queries 4-7, 10, 13 and the view (6 joins) |
 | CTEs | 2+ | Query 8 and Query 15 |
-| Subqueries | – | Query 16 (nested) |
-| CASE statements | – | Queries 12, 14 and the view |
+| Subqueries | 1+ | Query 16 (nested) |
+| CASE statements | 1+ | Queries 12, 14 and the view |
 | Views | 1+ | `gold.vw_Sales` |
 | Stored procedures | 1+ | `silver.load_superstore`, `gold.load_superstore` |
 | Performance optimization | yes | Indexes on all foreign keys |
