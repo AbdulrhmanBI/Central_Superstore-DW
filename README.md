@@ -226,3 +226,10 @@ The state-level figures are obtained by grouping `gold.vw_Sales` by `StateName` 
 - **Profit margin:** The overall margin is calculated as `SUM(Profit) / SUM(Sales)`. `ProfitMarginPct` in `gold.vw_Sales` represents the percentage for an individual sales line and is not additive.
 - **Date dimension:** `DateKey` is an identity value. `DimDate` contains distinct dates present in order and ship dates rather than a continuous calendar.
 - **Scope:** The source covers the Central region and the years 2013–2016. It contains no cost column, so the analysis uses the provided `Sales` and `Profit` values.
+
+---
+
+This project was developed as a mini-project required for the Professional Data Analyst Track under the Digital Egypt Pioneers Initiative (DEPI).
+
+**Author:** Abdulrhman Nasser  
+**GitHub:** [AbdulrhmanBI](https://github.com/AbdulrhmanBI)
