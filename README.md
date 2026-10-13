@@ -229,6 +229,8 @@ The state-level figures are obtained by grouping `gold.vw_Sales` by `StateName` 
 
 ---
 
+## Program
+
 This project was developed as a mini-project required for the Professional Data Analyst Track under the Digital Egypt Pioneers Initiative (DEPI).
 
 **Author:** Abdulrhman Nasser  
