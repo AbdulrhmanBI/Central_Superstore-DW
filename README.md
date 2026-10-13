@@ -1,4 +1,4 @@
-# Central Superstore — Data Warehouse & Business Analytics
+# Central Superstore - Data Warehouse & Business Analytics
 
 **SQL Server (T-SQL) | Medallion Architecture (Bronze → Silver → Gold) | Star Schema | Business Analytics**
 
